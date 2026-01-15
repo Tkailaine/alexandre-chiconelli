@@ -623,6 +623,10 @@ SESSÃO SOBRE
   opacity: 0.85;
 }
 
+.rodape-base p{
+  text-align: center;
+}
+
 .rodape-base .nota-etica {
   margin-top: 8px;
   opacity: 0.7;

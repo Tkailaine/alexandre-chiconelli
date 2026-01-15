@@ -48,6 +48,15 @@
 
 }
 
+.painel {
+
+    position: relative;     
+    min-height: 100vh;     
+    height: auto;           
+    align-items: flex-start;
+ }
+
+
 .contato-grid {
     grid-template-columns: 1fr;
     gap: 48px;
@@ -72,6 +81,15 @@
     font-size: 2em;
 
 }
+
+.painel {
+
+    position: relative;     
+    min-height: 100vh;     
+    height: auto;           
+    align-items: flex-start;
+ }
+
 
  .rodape-conteudo {
     grid-template-columns: 1fr 1fr;
