@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.chiconelliadvogado.com.br/sitemap.xml

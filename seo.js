@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // === CONFIGURAÇÕES ===
-const siteUrl = 'https://www.seusite.com.br'; 
+const siteUrl = 'https://www.chiconelliadvogado.com.br'; 
 const hoje = new Date().toISOString().split('T')[0]; // yyyy-mm-dd
 
 // ==== GERAR SITEMAP.XML ====
